@@ -1,0 +1,28 @@
+Programming
+
+C Programming
+- General Purpose
+  - could be used for any purpose
+  - like embedded system
+  - Desktop Application
+  - Browser Extension
+- Procedural Language
+- Structured
+- Compiled Language
+==================================
+Basics
+Variables and Data Types
+Input Output
+Operators
+Control Statements - If Else, Loops, Switch Case...
+Functions
+Array and Strings
+Pointers
+Storage Class
+Macros
+Struct, Enum, Union
+Memory Management
+File Handling
+------------------------------------
+
+
