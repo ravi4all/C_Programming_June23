@@ -26,3 +26,48 @@ File Handling
 ------------------------------------
 
 
+- Print Simple Hello World
+- Ways to Define main
+- Tokens
+  - smallest unit of C Program
+Tokens are of 6 different types
+- Keywords
+- Operators
+- Strings
+- Constants
+- Identifiers
+- Special Characters
+
+Keywords and Identifiers
+
+Keywords
+- reserved words used for a specific task
+- you cannot use Keywords for defining variables or functions
+
+Variable
+
+
+Data Types
+- type of data
+
+Primitive
+- Numeric
+- Text
+
+5 main data types
+- int
+- float
+- char
+- double
+- void
+
+Non-Primitive (Derived Data Types)
+- Array
+- Pointers
+- functions
+- strcutures
+- union
+
+User-Defined Data Types
+- typedef
+- enum
