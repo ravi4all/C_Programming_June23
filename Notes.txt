@@ -71,3 +71,100 @@ Non-Primitive (Derived Data Types)
 User-Defined Data Types
 - typedef
 - enum
+
+Implementing Data Types
+
+int             %d
+char            %c
+float           %f
+
+First Program in C to take input and show output
+
+Command Line Arguments
+
+HW 
+- Build Calculator using CLI
+  Calc.exe 10 20
+
+- Build Marks Calculator by taking input from  user using scanf
+  - take marks of 5 subjects
+  - get percentage and total and average marks of student
+  - assign grades to students
+    - if percentage is above 90 and below 100 then A+ grade
+    - if percentage is above 80 and below 90 then A grade
+    - if percentage is above 70 and below 80 then B+ grade
+    - if percentage is above 60 and below 70 then B+ grade
+    - Otherwise C grade
+
+
+Operators
+1. Arithmetic Operators (+, -, /, *, %)
+2. Relational Operators (==, >, <, >=, <=, !=)
+3. Logical Operators    (&&, ||, !)
+4. Bitwise Operators    (&, |, <<, >>, ^, ~)
+5. Assignment Operators (=, +=, -=, /=, *=, %=)
+6. Other Operators
+    - Ternary Operators (?:)
+    - Unary Operators   (++, --)
+
+
+Bitwise Operators
+- Bitwise AND - &
+- Bitwise OR - |
+- Bitwise XOR - ^
+- Left Shift - <<
+- Right Shift -- >>
+- Bitwise NOT - ~
+
+X     Y     X & Y     X | Y     X ^ Y
+0     0       0         0         0
+0     1       0         1         1
+1     0       0         1         1
+1     1       1         1         0
+
+
+Control Flow
+If Else
+If Else Ladder
+
+- Max of Two
+- Max of Three
+- Odd Even
+- Age Validator
+- Leap Year
+
+Loops
+
+- for loop 
+  - here we know how many times we have to execute a code
+- while loop 
+  - here we have a condition, till the condition is true loop will keep on executing
+- do...while loop
+  - loop executes atleast once even if condition is false
+
+Break and Continue
+Switch Case
+
+Exercise
+- Convert Days to years, weeks and days
+  - i/p : 789 - number of days
+  - o/p : Years = 2, Weeks = 8, Days = 3
+
+- Check if a number is prime number
+  - i/p : 17
+  - o/p : yes
+  - i/p : 49
+  - o/p : no
+
+1. Write a C program to find sum of all even numbers between 1 to n.
+2. Write a C program to print multiplication table of any number.
+  i/p : 2
+  o/p : 2 x 1 = 2
+3. Write a C program to find HCF (GCD) of two numbers.
+4. Write a C program to find LCM of two numbers.
+5. Count digits in a number
+  i/p : 21313
+  o/p : 5
+6. Count number of zeros in a number
+7. Create a pizza order system
+  - show pizza menu to customer
