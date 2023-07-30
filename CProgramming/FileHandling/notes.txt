@@ -1,0 +1,25 @@
+File Handling
+- read and write operations in a file
+
+2 types of files
+- text
+- binary - images, audio, video, .exe files
+
+Steps to perform file Handling
+- Open -> always tell mode of file (read/write/append) while opening
+- Read/Write
+  - if file is open in read mode than we cannot perform write operations
+  - if file is open in write mode than we cannot perform read operations
+- Close
+  - Once file is closed none of the operations will work
+
+How to open file : fOpen("file_name", "file_mode")
+
+Modes
+- r / rb, before opening a file make sure file already exists
+- w / wb, before opening a file it will create new file if file does not exists
+- a / ab
+- r+ / rb+
+- w+ / wb+
+- a+ /ab+
+

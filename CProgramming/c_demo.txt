@@ -1,0 +1,39 @@
+Programming
+- set of instructions
+ - Compiler
+ - Interpreter
+--------------------------------
+C Programming - Mother of all language
+- Procedural Language
+- Structural Language
+- Mid Level Language
+- Compiled Language
+- Desktop Application
+- Browser Extension
+
+Procedural Programming
+- a type of routine or subroutine
+- based on procedural calls
+
+History of C
+- Developed in 1972 by Dennis Ritchie at Bell Telephone Labs to develop UNIX OS
+- It was orignally developed to build unix OS
+- C was successor of B Language
+
+Applications of C
+- Desktop Apps
+- OS
+- Database - MySQL
+- Programming Interpreter
+- Google Chromium
+===========================================
+Basics of C
+Data Types
+Loops and If Else
+Switch Case
+Functions
+Array and Strings
+Pointers
+Memory Management
+Struct
+File Handling

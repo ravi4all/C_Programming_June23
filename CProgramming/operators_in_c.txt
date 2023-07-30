@@ -1,0 +1,36 @@
+Operators
+- Arihtmetic Operators
+  -> +, -, /, *, %
+- Assignment Operators
+  -> =, +=, -=, /=, *=, %=
+int x = 12;
+x += 1	->	x = x + 1
+x -= 1	-> 	x = x - 1
+- Relational Operators
+  - x = 12, y = 12
+x == y	->	True
+x > y	->	False
+x < y	->	False
+x >= y	->	True
+x <= y	->	True
+x != y	->	False
+- Logical Operators
+  - &&    -> and
+  - ||    -> or
+  - !     -> not
+x = 12, y = 20, z = 30
+x > y && x > z	-> 	False
+y > x && y > z	->	False
+z > x && z > y	->	True
+Increment and Decrement Operator
+x = 10;
+Post
+x++;	increment by 1
+x--;	decrement by 1
+Pre
+++x;	increment by 1
+--x;	decrement by 1
+Bitwise Operators
+&, |, ^, ~, >>, <<
+SizeOf Operator
+ - sizeof(x)

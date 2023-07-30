@@ -1,0 +1,11 @@
+Pointers in C
+
+Address
+- location where any object reside
+- represented by &
+int x = 10;
+print("Value is %d",x);
+print("Address is %d",&x);
+
+Pointers are represented by *
+- special variable that are used to store address

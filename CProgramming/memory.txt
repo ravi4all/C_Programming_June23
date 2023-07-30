@@ -1,0 +1,17 @@
+static memory allocation
+int x[5] = {4,3,5,3,6};
+
+Dynamic memory allocation
+malloc(), calloc(), free(), realloc()
+malloc  - memory allocation
+ Syntax - ptr = (cast*) malloc(size)
+ Use - ptr = (float*) malloc(100 * sizeof(float))
+
+calloc - contiguous allocation
+ Syntax - ptr = (cast*) calloc(n,size)
+ Use - ptr = (float*) calloc(25, sizeof(float))
+
+free - to release the space we use free()
+
+realloc - if dynamically allocated memory is insufficient then we can reallocate the memory, you can change size of previously allocated memory
+    Syntax - realloc(ptr, n2 * sizeof(int))

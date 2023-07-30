@@ -1,0 +1,20 @@
+Array - collection of similar type of data
+Syntax
+int arr[5];
+int arr[5] = {21,4,6,2,78};
+
+Access array elements using indexes
+Indexes always starts from 0
+arr[0] -> 21
+arr[1] -> 4
+arr[2] -> 6
+arr[3] -> 2
+arr[4] -> 78
+
+1. Count even numbers in an array
+2. Count frequency of an element in array
+3. Reverse an array
+4. Min Max in Array
+5. Multi-Dimensional Array
+6. Transpose of matrix
+7. Addition of 2 matrix
